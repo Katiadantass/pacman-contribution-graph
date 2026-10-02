@@ -37,12 +37,8 @@ Para exibir a animação em um README, utilize:
 * SVG
 * YAML
 
-## 👩‍💻 Autoria
-
-Projeto configurado por **Kátia Dantas Amaral**.
-
-[GitHub](https://github.com/Katiadantass) · [Portfólio](https://portfolio-tex4.vercel.app/)
-
 ---
 
-✨ Desenvolvido para personalizar o perfil GitHub de forma criativa.
+## 🙋 Autora
+
+[Katiadantass](https://github.com/Katiadantass)
